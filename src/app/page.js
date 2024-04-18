@@ -24,6 +24,7 @@ export default function Home() {
               height={24}
               priority
             />
+            <button className="btn btn-primary">Hello Daisy</button>
           </a>
         </div>
       </div>
